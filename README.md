@@ -28,7 +28,7 @@ The rationale of this project was to gain a better understanding of how to use H
 ## About
 It contains a list of the technologies and languages used to create and build Web applications along with links to their Wikipedia pages.
 
-### Link
+## Link
 Please click the link below to see the link deployed project.
 https://aineon.github.io/my-very-first-web-page/
 
