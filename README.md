@@ -22,12 +22,13 @@ Github is an industry-standard web platform for developers. It allows us to keep
 ### Github Pages
 Github Pages allows us to deploy our website within Github. 
 
-#### Rationale
+## Rationale
 The rationale of this project was to gain a better understanding of how to use HTML and CSS and how they work together to build, design and style a web page. It introduced us to Gitpod and the *Command-line Interface* or CLI which allows us to view files and folders, create files and directories, edit, copy, move and delete files and also run programs without a *Graphical User Interface* or GUI but by using a tool called the *Terminal*. It also introduced us to the **_git add_**, **_git commit_** and **_git push_** commands which allow us to push our files to our remote repository Github.
 
-#### About
+## About
 It contains a list of the technologies and languages used to create and build Web applications along with links to their Wikipedia pages.
 
+### Link
 Please click the link below to see the link deployed project.
 https://aineon.github.io/my-very-first-web-page/
 
