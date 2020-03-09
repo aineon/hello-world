@@ -1,6 +1,7 @@
 # My Very First Web Page
 
 Welcome to my very first web page.
+
 This page was created using HTML & CSS.
 An online IDE called Gitpod was used to create the Web page. The project was deployed using Gitpages on Github.
 
